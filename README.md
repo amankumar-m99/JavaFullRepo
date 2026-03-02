@@ -15,6 +15,7 @@ This the main repository for Java related repositories.
    1. ThymeLeaf Demo: [https://github.com/amankumar-m99/ThymeleafDemo.git](https://github.com/amankumar-m99/ThymeleafDemo.git)
    2. Captcha with ThymeLeaf: [https://github.com/amankumar-m99/CaptchaThymeleaf.git](https://github.com/amankumar-m99/CaptchaThymeleaf.git)
    3. ReCaptcha with Thymeleaf: [https://github.com/amankumar-m99/ReCaptchaThymeleaf.git](https://github.com/amankumar-m99/ReCaptchaThymeleaf.git)
+   4. Sawgger Demo: [https://github.com/amankumar-m99/SwaggerDemo.git](https://github.com/amankumar-m99/SwaggerDemo.git)
 4. Java Microservices Project
    1. SpanPrints: Main Repo Link: [https://github.com/amankumar-m99/SpanPrintsMain.git](https://github.com/amankumar-m99/SpanPrintsMain.git)
 3. Spring web concepts:
